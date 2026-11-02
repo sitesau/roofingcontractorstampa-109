@@ -1,0 +1,22 @@
+{
+  "wheel_id": 657,
+  "structure": "umbrella",
+  "slug": "roofingcontractorstampa-109",
+  "project": "roof-repair-tampa-suburb-guide-4eefd667dc0d3ac58f2c7f675023fe76",
+  "parent_t1_ref": "roofingcontractorstampa-154",
+  "node_role": "feeder",
+  "money_target": "roofingcontractorstampa.com",
+  "primary_kw": "roof repair tampa suburb guide",
+  "intended_url": "https://sitesau.github.io/roofingcontractorstampa-109/",
+  "tier": "T2",
+  "writeback_nonce": "15ae384f28e9149b",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/roof-repair-tampa-timeline-4d152a85c3ef7f41ff0e9fba3d3a7c995cc4/",
+      "anchor": "roof repair tampa timeline",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
